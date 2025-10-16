@@ -8,7 +8,7 @@
 🎓 Master’s student in **Information Systems @ Northeastern University (GPA: 3.92/4.0)**  
 💡 Passionate about **data engineering, applied AI, and building scalable software systems**  
 ☁️ Exploring **cloud-native data pipelines**, **LLM integration**, and **AI-powered automation**  
-📍 Based in Arlington, VA | Actively seeking **Full-time opportunities**  
+📍 Based in Arlington, VA | Actively seeking **Full-time opportunities** in United States 
 🧩 Previously at **TechX**, **Capgemini**, and **Infosys** building end-to-end data and cloud solutions  
 
 ---
